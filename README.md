@@ -1,4 +1,8 @@
-### Hello World!
+<h1 align=center>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3200&pause=800&color=5FABEE&background=03031400&center=true&size=23&vCenter=true&width=870&lines=Hello+World!;I'm+Thales+Davi;System+Development+Student;Currently+focused+on+web+development" alt="Presentation text" />
+  </a>
+</h1>
 
 <h2 align=left>GitHub Stats</h2>
 <div align=center>
