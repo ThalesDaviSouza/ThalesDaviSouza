@@ -4,6 +4,8 @@
   </a>
 </h1>
 
+<br><br>
+
 <h2 align=left><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> GitHub Stats</h2>
 <div align=center>
   <a href="https://git.io/streak-stats" title="Go to source">
@@ -27,6 +29,9 @@
 </div>
 
 ##
+
+<br>
+<br>
 
 <h1 align=left><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" /> My skills</h1>
 
@@ -56,3 +61,21 @@
     <img title="NodeJs" align=center height=60 width=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
     <img title="Laravel" align=center height=60 width=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 </div>
+<br>
+<br>
+
+
+## Social Media:
+
+<a href="https://github.com/ThalesDaviSouza">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=GitHub title=Github />
+</a>
+<a href="https://linkedin.com/in/thales-davi-de-souza-6b1710254/">
+  <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin title=Linkedin />
+</a>
+<a href="https://instagram.com/thaleswithth/">
+  <img src=https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white alt=Instagram title=Instagram />
+</a>
+<a href = "mailto:thalesdavisoul@gmail.com">
+  <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=Instagram title=Instagram />
+</a>
