@@ -4,6 +4,12 @@
   </a>
 </h1>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThalesDaviSouza/ThalesDaviSouza/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThalesDaviSouza/ThalesDaviSouza/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <br><br>
 
 <h2 align=left><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> GitHub Stats</h2>
